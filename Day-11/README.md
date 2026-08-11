@@ -1,4 +1,4 @@
-# Day 10 - 100 Days of DSA 🚀
+# Day 11 - 100 Days of DSA 🚀
 
 ## Problems Solved
 
